@@ -267,6 +267,7 @@ html,
 
 .cooperation .inner {
     flex-direction: column;
+    padding-top: 100px;
 }
 
 .cooperation__title {
@@ -276,7 +277,7 @@ html,
     letter-spacing: .05em;
 
     max-width: 440px;
-    padding: 90px 50px 32px 0;
+    padding: 0 50px 32px 0;
 }
 
 .cooperation__subtitle {
